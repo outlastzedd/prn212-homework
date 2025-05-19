@@ -1,0 +1,14 @@
+D:\++ FPTU\PRN212\Homework\Homework\bin\Debug\net8.0\Homework.exe
+D:\++ FPTU\PRN212\Homework\Homework\bin\Debug\net8.0\Homework.deps.json
+D:\++ FPTU\PRN212\Homework\Homework\bin\Debug\net8.0\Homework.runtimeconfig.json
+D:\++ FPTU\PRN212\Homework\Homework\bin\Debug\net8.0\Homework.dll
+D:\++ FPTU\PRN212\Homework\Homework\bin\Debug\net8.0\Homework.pdb
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\Homework.dll
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\refint\Homework.dll
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\Homework.pdb
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
+D:\++ FPTU\PRN212\Homework\Homework\obj\Debug\net8.0\ref\Homework.dll
