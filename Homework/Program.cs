@@ -22,6 +22,7 @@ namespace Homework
                     Hw1.Run(args);
                     break;
                 case "2":
+                    // Replace this absolute path after cloning the repository
                     string[] files = { "D:\\++ FPTU\\PRN212\\Homework\\Homework\\Chapter1\\example.txt" };
                     Hw2.Run(files);
                     break;
